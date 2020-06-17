@@ -1,4 +1,4 @@
-# Version 3.3.1-104_ianmacd.
+# Version 3.3.1-105_ianmacd.
 
 # Architecture
 TARGET_ARCH := arm64
@@ -73,7 +73,7 @@ BOARD_INCLUDE_RECOVERY_DTBO := true
 BOARD_PREBUILT_DTBOIMAGE := device/samsung/d2s/prebuilt/recovery_dtbo
 PLATFORM_VERSION := 10
 PLATFORM_SECURITY_PATCH := 2020-06-01
-TW_DEVICE_VERSION := 104
+TW_DEVICE_VERSION := 105
 
 #SHRP_Variables
 BUILD_SHRP_REC := true
