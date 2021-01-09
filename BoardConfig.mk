@@ -11,7 +11,7 @@
 # limitations under the License.
 #
 
-# Version 3.4.0-3
+PLATFORM_VERSION := 11
 
 DEVICE_PATH := device/samsung/d2s
 
